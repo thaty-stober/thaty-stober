@@ -1,6 +1,7 @@
 # Oii, eu sou a Thaty Stober 😊
 
 **Quality Assurance (QA) | Agile Tester em formação**  
+--- 
 Sou formada em Análise e Desenvolvimento de Sistemas.  
 Atuei como desenvolvedora front-end, o que me dá uma base técnica importante para compreender fluxos, integrações e comportamento das aplicações.  
 Atualmente, estou iniciando minha jornada em QA e desenvolvendo fundamentos sólidos de qualidade e práticas ágeis.
