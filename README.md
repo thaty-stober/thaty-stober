@@ -26,7 +26,7 @@ Atualmente, estou iniciando minha jornada em QA e desenvolvendo fundamentos sól
 
 
 ## Contato
-(https://www.linkedin.com/in/thatiely-stober-3b6587155/)[*LinkedIn* ](https://www.linkedin.com/in/thatiely-stober-3b6587155/) 
+[*LinkedIn* ](https://www.linkedin.com/in/thatiely-stober-3b6587155/) 
 
 ---
 
