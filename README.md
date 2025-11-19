@@ -29,6 +29,3 @@ Atualmente, estou iniciando minha jornada em QA e desenvolvendo fundamentos sól
 ## Contato
 [*LinkedIn* ](https://www.linkedin.com/in/thatiely-stober-3b6587155/) 
 
----
-
-*Construindo minha carreira em QA com foco, clareza e evolução contínua.*
