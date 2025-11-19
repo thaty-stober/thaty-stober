@@ -25,7 +25,8 @@ Atualmente, estou iniciando minha jornada em QA e desenvolvendo fundamentos sól
 - Git e GitHub  
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thatiely-stober-3b6587155/)[*LinkedIn* ](https://www.linkedin.com/in/thatiely-stober-3b6587155/) 
+## Contato
+(https://www.linkedin.com/in/thatiely-stober-3b6587155/)[*LinkedIn* ](https://www.linkedin.com/in/thatiely-stober-3b6587155/) 
 
 ---
 
